@@ -1,0 +1,6 @@
+resources/
+venv/
+.idea/
+pvp/__pycache__/
+pve/__pycache__/
+utils/__pycache__/
